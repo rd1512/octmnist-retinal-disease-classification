@@ -11,10 +11,10 @@ The workflow includes:
 -  Custom CNN architecture built from scratch in PyTorch
 -  Training loop implementation with validation monitoring
 -  Performance evaluation using:
-  - Accuracy
-  - Precision / Recall / F1-score
-  - Confusion Matrix
-  - ROC Curve
+    - Accuracy
+    - Precision / Recall / F1-score
+    - Confusion Matrix
+    - ROC Curve
 -  Model optimization techniques (e.g., regularization, learning rate tuning)
 -  Model checkpointing and weight saving
 
